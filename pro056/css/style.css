@@ -1,0 +1,105 @@
+body {
+    margin : 0;
+    font-family: Oswald;
+}
+
+#container1{
+    background-size: cover;
+    position: center;
+    width: 100%;
+}
+
+#navbar{
+    background-color: #318bda;
+    padding: 0.6% 0;
+}
+
+.nav_logo{
+    color: white;
+    font-size: 36pt;
+    margin-left: 14.9%;
+    text-decoration: none;
+}
+
+.recr{
+    color: white;
+    font-size: 16pt;
+    margin-left: 1.3%;
+    text-decoration: none;
+}
+
+.nav_menu1 {
+    color: white;
+    font-size: 16pt;
+    margin-left: 20%;
+    padding: 0 2.4%;
+    text-decoration: none;
+}
+
+.nav_menu2 {
+    color: white;
+    font-size: 16pt;
+    /* margin-left: 5.1%; */
+    padding: 0 2.4%;
+    text-decoration: 
+
+}
+
+.btn {
+    color: white;
+    font-size: 16pt;
+    margin-left: 1.3%;
+    padding: 0 2.4%;
+    text-decoration: none;
+    background-color: #ec9700;
+    border-radius: 25px;
+    /* font-family: YuGothic; */
+}
+
+.scroll_1{
+    color: white;
+    background-color: #ec9700;
+    padding: 0 2.4%;
+    border-radius: 25px;
+    float: inline-end;
+    margin: 0% 45% ;
+}
+
+.bg1 { 
+    background-image: url(../img/bg_002.png);
+    margin-right: 17%;
+    background-color: white;
+    background-size: 102%;
+    background-repeat: no-repeat;
+}
+
+.backgr {
+        -ms-writing-mode: tb-rl;
+        writing-mode: vertical-rl;
+        margin-right: 10%; 
+        margin-top: 5%;
+}
+
+.bg4 {
+    margin-top: 3%;
+    margin-left: 30%;
+}
+
+.bg-footer {
+    background-color: #2065c5;
+    color: #fff;
+  }
+
+.oswald_text {
+    font-family: 'Oswald';
+    font-weight: normal;
+}
+
+.comment {
+    resize: none;
+  }
+
+.bg-copyright {
+background-color: #1f5bad;
+color: #fff;
+}
